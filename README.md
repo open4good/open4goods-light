@@ -1,5 +1,5 @@
 # Open4goods project  
-
+ 
 [![Build and test](https://github.com/open4good/open4goods/actions/workflows/buildDeploy.yml/badge.svg?branch=main)](https://github.com/open4good/open4goods/actions/workflows/buildDeploy.yml)
 
 The first open source tool that operates ecological scoring, doing its best for the common good. 
